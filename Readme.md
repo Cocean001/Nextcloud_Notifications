@@ -30,3 +30,6 @@ nextcloud木有提供occ批量发送通知给用户的功能，只能一个个�
 
 原Admin Notifications项目：https://github.com/nextcloud/admin_notifications
 
+
+
+### 图
